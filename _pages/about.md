@@ -16,8 +16,18 @@ news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student at the Université de Sherbrooke 
+and the Max Planck Institute for Software Systems in Saarbrücken, under co-supervision by 
+<a href="http://info.usherbrooke.ca/mblondin/">Michael Blondin</a> and <a href="https://fmazowiecki.github.io/">Filip Mazowiecki</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research focus is on <a href="https://en.wikipedia.org/wiki/Formal_verification">formal verification</a>, particularly of infinite-state systems.
+The overarching goal is to enable development of more
+robust systems. For example, verification can help developers ensure a system meets specifications
+before, during and after deployment, even if these specifications are hard to check
+manually or by testing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Personally, I also have interests in the Internet-of-Things and artificial intelligence.
+
+I got my Bachelor's (2018) and Master's (2019) in Informatics from the <a href="http://www.tum.de/">Technical University of Munich</a>,
+and I was part of the <a href="https://paves.model.in.tum.de/">PaVeS</a> research group as a student assistant.
+My master's thesis was supervised by <a href="https://www7.in.tum.de/people/detail/index.php?id=people.detail&arg=163">Christoph Welzel</a>.
