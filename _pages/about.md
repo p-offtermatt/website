@@ -1,23 +1,20 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Some information about me and what I do.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true
 social: true
 ---
 
-I am a Ph.D. student at the Université de Sherbrooke 
-and the Max Planck Institute for Software Systems in Saarbrücken, under co-supervision by 
+I am a Ph.D. student at the <a href="https://www.usherbrooke.ca/">Université de Sherbrooke</a> 
+and the <a href="https://www.mpi-sws.org/">Max Planck Institute</a> for Software Systems in Saarbrücken, under co-supervision by 
 <a href="http://info.usherbrooke.ca/mblondin/">Michael Blondin</a> and <a href="https://fmazowiecki.github.io/">Filip Mazowiecki</a>.
 
 My current research focus is on <a href="https://en.wikipedia.org/wiki/Formal_verification">formal verification</a>, particularly of infinite-state systems.
