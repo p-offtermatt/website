@@ -19,7 +19,7 @@ while [[ $# > 0 ]]; do
         ;;
         -u|--user)
         SRC_BRANCH="source"
-        DEPLOY_BRANCH="gh-pages"
+        DEPLOY_BRANCH="master"
         shift
         ;;
         -s|--src)
