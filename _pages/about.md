@@ -18,9 +18,9 @@ and the <a href="https://www.mpi-sws.org/">Max Planck Institute</a> for Software
 <a href="http://info.usherbrooke.ca/mblondin/">Michael Blondin</a> and <a href="https://fmazowiecki.github.io/">Filip Mazowiecki</a>.
 
 My current research focus is on <a href="https://en.wikipedia.org/wiki/Formal_verification">formal verification</a>, particularly of infinite-state systems.
-The overarching goal is to enable development of more
+The overarching goal is to enable the development of more
 robust systems. For example, verification can help developers ensure a system meets specifications
-before, during and after deployment, even if these specifications are hard to check
+before, during, and after deployment, even if these specifications are hard to check
 manually or by testing.
 
 Personally, I also have interests in the Internet-of-Things and artificial intelligence.
