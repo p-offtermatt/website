@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: A list of my publications.
-years: [2019, 2017]
+years: [2021,2019,2017]
 nav: true
 ---
 
