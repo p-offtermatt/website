@@ -25,6 +25,12 @@ nav: true
       <br>
     </li>
     <li>
+      <span><strong>February 25, 2021: <a href="https://paves.model.in.tum.de/">PaVeS Seminar</a></strong></span>
+      <br>
+      Technical University of Munich, Munich
+      <br>
+    </li>
+    <li>
       <span><strong>March 19, 2021: <a href="https://www.usherbrooke.ca/informatique/recherche/club-informatique/">Club Informatique</a></strong></span>
       <br>
       Université de Sherbrooke, Sherbrooke
